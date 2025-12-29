@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hola, soy Yerson
 
-<!--
-**YersonGD/YersonGD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante universitario de Ingeniería de Sistemas / Electrónica  
+📍 Lima – Perú  
+💼 Postulante a Practicante de TI  
 
-Here are some ideas to get you started:
+## Sobre mí
+Soy estudiante universitario con alta capacidad de aprendizaje e interés en el
+área de Tecnologías de la Información. He participado en proyectos académicos donde
+apoyé en la recolección de requerimientos, desarrollo básico de programas,
+ejecución de pruebas funcionales y seguimiento de mejoras en sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conocimientos (nivel básico / en formación)
+- JavaScript
+- Node.js
+- SQL (consultas básicas)
+- Git / GitHub
+- Windows
+
+## En este GitHub encontrarás
+- Proyectos académicos
+- Ejercicios prácticos
+- Documentación básica
+- Casos de prueba funcionales
