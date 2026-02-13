@@ -1,7 +1,7 @@
 # YERSON GARCIA DIAS
 
 **Ingeniero Electrónico y de Sistemas**  
-Lima, Perú | yerdiaz784@gmail.com | +51 977 194 843
+Lima, Perú | yerdiaz784@gmail.com | +51 977194843
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yerson-garcia-dias-4996912a9/)
 [![GitHub](https://img.shields.io/badge/GitHub-YersonGD-black)](https://github.com/YersonGD)
